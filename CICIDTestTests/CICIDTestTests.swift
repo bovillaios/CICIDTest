@@ -29,6 +29,11 @@ class CICIDTestTests: XCTestCase {
             // Put the code you want to measure the time of here.
         }
     }
+    
+    func test() {
+        
+        XCTAssert("1" == "1")
+    }
 
     func test1() {
         
