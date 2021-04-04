@@ -34,8 +34,8 @@ class CICIDTestTests: XCTestCase {
         }
     }
     
-    func test() {
+    func addTwoNumbers() {
         
-        XCTAssert(hello.addTwoNumbers(a: 2, b: 3) ==  5)
+        XCTAssert(hello.addTwoNumbers(a: 2, b: 3) ==  5, "Wasup")
     }
 }
