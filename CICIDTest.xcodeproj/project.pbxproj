@@ -15,6 +15,7 @@
 		6B7BB5A02619C6B20056FB95 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6B7BB59E2619C6B20056FB95 /* LaunchScreen.storyboard */; };
 		6B7BB5AB2619C6B20056FB95 /* CICIDTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B7BB5AA2619C6B20056FB95 /* CICIDTestTests.swift */; };
 		6B7BB5B62619C6B20056FB95 /* CICIDTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B7BB5B52619C6B20056FB95 /* CICIDTestUITests.swift */; };
+		6B7BB5CA2619D29D0056FB95 /* AddFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B7BB5C92619D29D0056FB95 /* AddFile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		6B7BB5B12619C6B20056FB95 /* CICIDTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CICIDTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6B7BB5B52619C6B20056FB95 /* CICIDTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CICIDTestUITests.swift; sourceTree = "<group>"; };
 		6B7BB5B72619C6B20056FB95 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6B7BB5C92619D29D0056FB95 /* AddFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddFile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				6B7BB5932619C6AF0056FB95 /* AppDelegate.swift */,
 				6B7BB5952619C6AF0056FB95 /* SceneDelegate.swift */,
 				6B7BB5972619C6AF0056FB95 /* ViewController.swift */,
+				6B7BB5C92619D29D0056FB95 /* AddFile.swift */,
 				6B7BB5992619C6AF0056FB95 /* Main.storyboard */,
 				6B7BB59C2619C6B20056FB95 /* Assets.xcassets */,
 				6B7BB59E2619C6B20056FB95 /* LaunchScreen.storyboard */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6B7BB5982619C6AF0056FB95 /* ViewController.swift in Sources */,
+				6B7BB5CA2619D29D0056FB95 /* AddFile.swift in Sources */,
 				6B7BB5942619C6AF0056FB95 /* AppDelegate.swift in Sources */,
 				6B7BB5962619C6AF0056FB95 /* SceneDelegate.swift in Sources */,
 			);
