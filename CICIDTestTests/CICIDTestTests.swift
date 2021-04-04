@@ -30,4 +30,8 @@ class CICIDTestTests: XCTestCase {
         }
     }
 
+    func test1() {
+        
+        XCTAssert("1" == "2")
+    }
 }
